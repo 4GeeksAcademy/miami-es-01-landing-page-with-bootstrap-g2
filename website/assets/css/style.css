@@ -1,3 +1,7 @@
 body{
     background: #BDBDBD;
 }
+
+.rounded-circle {
+    border-radius: 50%;
+}
