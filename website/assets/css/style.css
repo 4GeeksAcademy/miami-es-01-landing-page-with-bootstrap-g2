@@ -1,3 +1,71 @@
-body{
-    background: #BDBDBD;
+
+.cambiocolor{
+    color: rgb(197, 195, 195);
 }
+
+.todo{
+    background-color: rgb(218, 214, 214);
+    font-size: 15px;
+}
+body{
+    background: white;
+    width: 100%;
+    margin: auto;
+}
+.texto3 {
+    color: grey;
+}
+.feature-image {
+    border-radius: 50%;
+    max-width: 250px;
+}
+.Second-feature-image {
+    position: absolute;
+    left: 30px;
+}
+
+.imagen{
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    background-position: bottom;
+    width: 100%; height: 400px;
+}
+
+.titul{
+    background-color: rgb(248, 247, 247);
+    font-size: 40px;
+}
+
+.tituld-2{
+    font-size: 70px;
+}
+
+.texto{
+    font-size: 13px;
+}
+
+.caja{
+    height: 230px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+h5 {
+    color: rgb(1, 142, 177);
+}
+.container3 {
+    width: 85%;
+    margin: auto;
+    margin-bottom: 130px;
+    margin-top: 100px;
+}
+
+.separar{
+    margin-bottom: 50px;
+}
+
